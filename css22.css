@@ -1,0 +1,31 @@
+div.container5 {
+  height: 10em;
+  display: flex;
+  align-items: center }
+div.container5 p {
+  margin: 0 }
+  div {
+    padding: 0px 60px;
+  }
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.um { 
+  width:900px; 
+  font: 30px Arial, Helvetica, sans-serif; 
+  color: #00ff9d;
+  border-top: 14px solid #7FD991; 
+  border-left: 2px solid #7FD991; 
+  border-right: 2px solid #7FD991; 
+  border-bottom: 2px solid #7FD991; 
+  padding-left:5px;
+}
+section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #00ff9d;
+}
